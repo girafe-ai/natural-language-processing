@@ -1,2 +1,1 @@
-# natural_language_processing
-Natural Language Processing course for MSAI program
+# Natural Language Processing course, MSAI Fall 2021
