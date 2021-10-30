@@ -3,10 +3,10 @@ Slides:
 
 Word embeddings overview and visualization:
 
-Self-practice version:
+* Self-practice version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week01_word_embeddings/practice1_01_dealing_with_word_embeddings__completed.ipynb)
 
-Solved version:
+* Solved version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week01_word_embeddings/practice1_01_dealing_with_word_embeddings__completed.ipynb)
 
 Further readings:

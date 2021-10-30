@@ -1,13 +1,13 @@
 Slides:
-[link](https://github.com/girafe-ai/ml-mipt/blob/21f_advanced/week1_02_cnn_for_texts_and_more_embeddings/ml-mipt_f21_lect102_cnn_for_texts_and_more_embeddings.pdf)
+[link](https://github.com/girafe-ai/natural-language-processing/blob/master/week02_cnn_for_texts/MSAI_NLP_f21_lect02_CNN_for_texts_and_more_embeddings.pdf)
 
 Word embeddings overview and visualization:
 
-Self-practice version:
+* Self-practice version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week02_cnn_for_texts/practice02_cnn_for_texts.ipynb)
 
-Solved version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/21f_advanced/week02_cnn_for_texts/practice02_cnn_for_texts__completed.ipynb)
+* Solved version:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week02_cnn_for_texts/practice02_cnn_for_texts__completed.ipynb)
 
 
 Further readings:
