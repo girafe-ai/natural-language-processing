@@ -1,5 +1,5 @@
 Slides:
-TBD
+[link](https://github.com/girafe-ai/natural-language-processing/blob/master/week01_word_embeddings/MSAI_NLP_f21_lect01_Word_embeddings.pdf)
 
 Word embeddings overview and visualization:
 
