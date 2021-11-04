@@ -1,8 +1,7 @@
 Slides:
 [link](https://github.com/girafe-ai/natural-language-processing/blob/master/week03_machine_translation/MSAI_NLP_f21_lect103_Machine_Tranlation.pdf)
 
-CNN for salary prediction:
-
+NMT and tensorboard tutorial:
 * Self-practice version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week03_machine_translation/practice1_03_seq2seq_nmt_and_tensorboard.ipynb)
 
