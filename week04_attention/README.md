@@ -5,7 +5,7 @@ NMT with attention:
 * Self-practice version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week04_attention/practice1_04_seq2seq_nmt__with_attention.ipynb)
 
-* Solved version:
+* Basic attention intro and bonus assignment:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week04_attention/practice1_04_extra_attention_basics_and_tensorboard.ipynb)
 
 
