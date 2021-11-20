@@ -2,7 +2,7 @@ Slides:
 [link](https://github.com/girafe-ai/natural-language-processing/blob/master/week04_attention/MSAI_NLP_f21_lect104_Attention_and_self_attention.pdf)
 
 NMT with attention:
-* Self-practice version:
+* Completed version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week04_attention/practice1_04_seq2seq_nmt__with_attention.ipynb)
 
 * Basic attention intro and bonus assignment:
