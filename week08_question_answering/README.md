@@ -1,0 +1,2 @@
+Question Answering and TTS:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/master/week08_question_answering/practice_question_answering_and_tts.ipynb)
