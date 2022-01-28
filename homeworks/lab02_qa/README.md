@@ -2,6 +2,10 @@
 
 In this homework your goal is to build the QA system for specific language. The default code is available for English and Russian languages. Russian example using the [SberQuAD dataset](https://arxiv.org/pdf/1912.09723.pdf). The preprocessing code and baseline solution (BiDAF) are the slightly adapted version of the [Stanford CS224n Starter code](https://github.com/chrischute/squad) for the SQuAD dataset.
 
+**To use any other language, please, refer to [this post](https://medium.com/deepset-ai/going-beyond-squad-part-1-question-answering-in-different-languages-8eac6cf56f21) or to the Table 2 in the paper [Deep learning based question answering systemin Bengali](https://www.researchgate.net/publication/346129818_Deep_learning_based_question_answering_system_in_Bengali), where the authors provide an overview of available datasets.**
+
+The available languages are (but not limited to): Korean, Arabic, French, Spanish, Italian, Russian, English, Hindi and Chinese.
+
 The starting point of this assighnment is the `SberQuAD_preprocessing_and_problem_statement.ipynb` notebook.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//natural-language-processing/tree/master/homeworks/lab02_qa/SberQuAD_preprocessing_and_problem_statement.ipynb)
 
