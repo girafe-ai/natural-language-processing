@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/22s_made/week01_word_embeddings/practice_word_embeddings.ipynb)
 
 Solved version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](natural-language-processing/blob/22s_made/week01_word_embeddings/practice_word_embeddings_solved.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/22s_made/week01_word_embeddings/practice_word_embeddings_solved.ipynb)
 
 Further readings:
 
