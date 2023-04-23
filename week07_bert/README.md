@@ -1,6 +1,6 @@
 BERT for text classification:
 * Self-practice version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/22f_msai/week07_bert/practice_bert_for_text_classification.ipynb)
-* Solved version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/22f_msai/week07_bert/practice_bert_for_text_classification.ipynb)
+* Solved version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/22f_msai/week07_bert/practice_bert_for_text_classification_solved.ipynb)
 
 **Further readings**:
 
