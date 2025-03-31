@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/3dafd391/week07_rl_intro/practice07_crossentropy_method__solved.ipynb)
