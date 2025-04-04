@@ -1,0 +1,2 @@
+* Классификация текстов классическими методами: [![Open In Colab](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_mipt/homeworks/hw03_text_classification/assignment_classic_text_classification.ipynb)
+* Классификация текстов с использованием BERT: [![Open In Colab](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_mipt/homeworks/hw03_text_classification/assignment_bert_for_text_classification.ipynb)
