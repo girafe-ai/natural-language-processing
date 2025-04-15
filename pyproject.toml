@@ -5,7 +5,6 @@ description = ""
 authors = [{ name = "lwtztea", email = "luneva.na@phystech.edu" }]
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["numpy (>=2.2.3,<3.0.0)", "matplotlib (>=3.10.1,<4.0.0)", "transformers (>=4.49.0,<5.0.0)", "pandas (>=2.2.3,<3.0.0)", "torch (>=2.6.0,<3.0.0)", "umap (>=0.1.1,<0.2.0)", "nltk (>=3.9.1,<4.0.0)", "scikit-learn (>=1.6.1,<2.0.0)", "bokeh (>=3.6.3,<4.0.0)", "torchtext (>=0.18.0,<0.19.0)", "datasets (>=3.4.1,<4.0.0)"]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
