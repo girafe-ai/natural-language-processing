@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/e18bb05/week11_llm_pretrain/practice11_quantization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/4849add4/week11_llm_pretrain/practice11_quantization.ipynb)
