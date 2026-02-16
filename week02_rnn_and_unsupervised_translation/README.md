@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/ef1ab1bb/week02_rnn_and_unsupervised_translation/practice02_seq2seq_for_nmt.ipynb)
