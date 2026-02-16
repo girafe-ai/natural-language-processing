@@ -1,2 +1,3 @@
-# natural_language_processing
-Natural Language Processing course for MSAI program
+# Natural Language Processing
+
+NLP course for MIPT program
