@@ -1,0 +1,3 @@
+**Week 1: Intro to NLP. Word embeddings.**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/26s_ai360/week01_intro_and_word_embeddings/practice01_dealing_with_word_embeddings.ipynb)
