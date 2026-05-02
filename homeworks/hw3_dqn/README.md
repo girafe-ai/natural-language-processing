@@ -5,4 +5,4 @@ Main: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 
 It's recommended to start with debug and then proceed to main. Submit only main version.
 
-**Deadline: 24 Mar 2026 23:59 MSK**
+**Deadline: 16 May 2026 23:59 MSK**
